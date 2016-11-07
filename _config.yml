@@ -7,7 +7,7 @@ repo: cardiff
 github_org: maptime
 maptime:
   chapter: MaptimeCardiff
-  #twitter: TwitterHandle
+  #twitter: @MaptimeCardiff
   #disqus: YOUR DISQUS USERNAME
 
 gems:
